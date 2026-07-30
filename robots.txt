@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://valentina01995.github.io/Restaurante-Origen-proyecto/sitemap.xml
